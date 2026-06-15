@@ -1,0 +1,1 @@
+const t={title:"text-[16px] font-bold tracking-[-0.3px]",subtitle:"text-[15px] font-bold tracking-[-0.2px]",value:"text-[14px] font-medium tracking-[-0.2px]",label:"text-[13px] font-medium tracking-[-0.2px]",caption:"text-[12px] font-medium tracking-[-0.2px]",micro:"text-[11px] font-medium tracking-[-0.2px]",price:"text-[18px] font-medium tracking-[-0.4px]"};export{t as T};
